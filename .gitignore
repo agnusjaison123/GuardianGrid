@@ -1,0 +1,30 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+**/firebase-service-account.json
+**/*service-account*.json
+**/key.properties
+**/*.jks
+**/*.keystore
+
+# Generated application output
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.venv/
+**/venv/
+**/__pycache__/
+**/*.py[cod]
+**/*.log
+**/coverage/
+
+# Local IDE and platform configuration
+.vscode/
+**/.idea/
+**/local.properties
+**/ios/Flutter/.last_build_id

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777748088135",
+    "project_id": "guardiangrid-2026",
+    "storage_bucket": "guardiangrid-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777748088135:android:edb048850ec2ae5e5b3862",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Y6NJB1HrV2nDQ9rFplLOlp9lMP5qskY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

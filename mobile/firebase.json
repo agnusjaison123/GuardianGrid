@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "guardiangrid-2026",
+          "appId": "1:777748088135:android:edb048850ec2ae5e5b3862",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "guardiangrid-2026",
+          "configurations": {
+            "android": "1:777748088135:android:edb048850ec2ae5e5b3862",
+            "ios": "1:777748088135:ios:37139c2d07ecca0b5b3862",
+            "macos": "1:777748088135:ios:37139c2d07ecca0b5b3862",
+            "web": "1:777748088135:web:e976172b04da8b825b3862",
+            "windows": "1:777748088135:web:6eb7434220eb09445b3862"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}
